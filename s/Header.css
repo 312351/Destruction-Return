@@ -1,0 +1,28 @@
+body,html{
+    height: 100%;
+    background-color: white;
+    margin: 0;
+}
+.header1{
+background: linear-gradient(45deg,rgb(156, 126, 106),rgba(211, 185, 174, 0.25));
+}
+.Depan{
+    display: flex;
+   justify-content: flex-start;
+   align-items: center;
+}
+.Depan img{
+    margin-left: 1%;
+    width: 10%;
+    border-radius: 15%;
+    background: linear-gradient(45deg,rgba(83, 82, 82, 0.89),rgb(142, 74, 45));
+    transform: scale(0.8);
+}
+.Jcow{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50%;
+    font-weight: bold;
+    background: linear-gradient(90deg, #202020, #983838, #e06238);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
