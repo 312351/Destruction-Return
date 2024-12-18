@@ -33,7 +33,6 @@ background: linear-gradient(to right,rgba(119, 24, 24, 0.854),rgba(43, 8, 8, 0.4
     align-items:center ;
     justify-content: center;
     gap: 1%;
-   transform: scale(0.8);
 }
 
 .Dreborn{
@@ -63,7 +62,7 @@ background: linear-gradient(to right,rgba(119, 24, 24, 0.854),rgba(43, 8, 8, 0.4
     justify-content: center;
 }
 .Penjelasan h1{
-    font-size: 5%;
+    font-size: 25%;
     font-weight: bold;
     color: aliceblue;
 }
